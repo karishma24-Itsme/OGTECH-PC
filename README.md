@@ -7,10 +7,10 @@ OG Tech PC is a responsive e-commerce website for buying computer hardware and a
 * MySQL
 
 # Frontend
-![image](https://user-images.githubusercontent.com/59404615/208036926-a4863d53-8c29-43cd-9da4-8fbd99eb6909.png)
+![image](https://github.com/karishma24-Itsme/OGTECH-PC/59404615/208036926-a4863d53-8c29-43cd-9da4-8fbd99eb6909.png)
 
 # Backend
-![image](https://user-images.githubusercontent.com/59404615/208041648-db078e66-0e85-420b-898a-5964d902abbf.png)
+![image](https://github.com/karishma24-Itsme/OGTECH-PC/59404615/208041648-db078e66-0e85-420b-898a-5964d902abbf.png)
 
 
 # 🚀 Features
@@ -28,7 +28,7 @@ OG Tech PC is a responsive e-commerce website for buying computer hardware and a
 3. Navigate to htdocs inside the folder and delete everything.
 4. Clone this repository into the folder.
 5. Run xampp.
-![image](https://user-images.githubusercontent.com/59404615/208037550-c3c61ced-0176-49bc-ac5a-95c6b3248a5c.png)
+![image](https://github.com/karishma24-Itsme/OGTECH-PC/59404615/208037550-c3c61ced-0176-49bc-ac5a-95c6b3248a5c.png)
 
 6. Next, go to phpmyadmin localhost web to create a database with ogtech as its name.
 7. Import all the sql data from the OGTECH.sql file in the root project directory.
