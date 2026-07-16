@@ -7,10 +7,10 @@ OG Tech PC is a responsive e-commerce website for buying computer hardware and a
 * MySQL
 
 # Frontend
-![Frontend](https://raw.githubusercontent.com/karishma24-Itsme/OGTECH-PC/blob/main/product_images/frontend.png)
+![Frontend](https://raw.githubusercontent.com/karishma24-Itsme/OGTECH-PC/main/product_images/frontend.png)
 
 # Backend
-![Backend](https://raw.githubusercontent.com/karishma24-Itsme/OGTECH-PC/blob/main/product_images/backend.png)
+![Backend](https://raw.githubusercontent.com/karishma24-Itsme/OGTECH-PC/main/product_images/backend.png)
 
 
 # 🚀 Features
