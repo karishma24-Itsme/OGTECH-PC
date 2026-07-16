@@ -28,7 +28,7 @@ OG Tech PC is a responsive e-commerce website for buying computer hardware and a
 3. Navigate to htdocs inside the folder and delete everything.
 4. Clone this repository into the folder.
 5. Run xampp.
-![image](https://raw.githubusercontent.com/karishma24-Itsme/OGTECH-PC/tree/main/product_images/xamp.png)
+![image](https://raw.githubusercontent.com/karishma24-Itsme/OGTECH-PC/main/product_images/xamp.png)
 
 6. Next, go to phpmyadmin localhost web to create a database with ogtech as its name.
 7. Import all the sql data from the OGTECH.sql file in the root project directory.
